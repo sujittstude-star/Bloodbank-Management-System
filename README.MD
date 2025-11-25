@@ -1,4 +1,4 @@
-🩸 Blood Bank Management System (BBMS)
+Blood Bank Management System 
 
 Project Overview
 
@@ -8,7 +8,7 @@ By providing a centralized digital platform, BBMS ensures the reliable and secur
 
 This system demonstrates the application of [Insert Subject-Specific Concept Here, e.g., CRUD operations, database normalization, or MVC architecture] learned in the course.
 
-🌟 Features
+Features
 
 The system is organized into three major functional modules:
 
